@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kaplyak
+- 👀 I’m interested in reading, coding, traveling,
+- 🌱 I’m currently learning the MERN stack.
+- 💞️ I’m looking to collaborate on interesting projects.
+- 📫 How to reach me: kaplyak@protonmail.com
